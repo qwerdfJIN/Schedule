@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 public class Schedule {
 
     private Long id; //일정의 고유 ID
-    private String writer; //작성자면
+    private String writer; //작성자명
     private String password; //비밀번호
     private String contents; //일정 내용
     private LocalDateTime createdDate = LocalDateTime.now(); //작성일

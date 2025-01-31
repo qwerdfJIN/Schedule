@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 public class ScheduleResponseDto {
 
     private Long id; //일정의 고유 ID
-    private String writer; //작성자면
+    private String writer; //작성자명
     private String contents; //일정 내용
     private LocalDateTime createdDate; //작성일
     private LocalDateTime updatedDate; //수정일
