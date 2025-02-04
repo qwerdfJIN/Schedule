@@ -7,10 +7,7 @@
 #### Lv 0. API 명세 및 ERD 작성
 
 - API 명세서 및 ERD 작성하기
-
-
-
-
+<!-- Failed to upload "Schedule_API_ERD.jpg" -->
 
 
 #### Lv 1. 일정 생성 및 조회
