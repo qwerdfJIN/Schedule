@@ -4,7 +4,7 @@
 
 ***레벨별 과제내용**
 
-#### Lv 0. API 명세 및 ERD 작성
+#### Lv 0. API 명세, ERD, SQL 작성
 
 - API 명세서 및 ERD 작성하기
 <<<<<<< HEAD
@@ -16,6 +16,13 @@
 ![Image](https://github.com/user-attachments/assets/f230d979-1760-4e36-8096-d5889a9557d3)
 >>>>>>> 9748d1017ad8a5c9c937a79973522ed549c95c19
 
+#### <br>
+
+- **SQL 작성하기**
+
+  - 과제 프로그램의 root(최상위) 경로에schedule.sql 파일을 만들고 query 작성
+
+    <br>
 
 #### Lv 1. 일정 생성 및 조회
 
