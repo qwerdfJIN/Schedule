@@ -14,7 +14,7 @@ public class Schedule {
     private String password; //비밀번호
     private String content; //일정 내용
     private LocalDateTime createdDate = LocalDateTime.now(); //작성일: 일정을 처음 작성한 시간, default: 현재 시간
-    private LocalDateTime updatedDate = LocalDateTime.now(); //작성일: 일정을 마지각으로 수정한 시간, default: 현재 시간
+    private LocalDateTime updatedDate = LocalDateTime.now(); //수정일: 일정을 마지각으로 수정한 시간, default: 현재 시간
 
     // 일정 생성자 (일정 작성 시 사용)
     public Schedule(String writer, String password, String content) {
