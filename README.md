@@ -8,8 +8,7 @@
 
 - API 명세서 및 ERD 작성하기
 
-![Schedule_API, ERD](../images/README/Schedule_API, ERD.jpg)
-
+![API 명세서](images/Schedule_API&ERD.jpg)
 
 
 #### Lv 1. 일정 생성 및 조회
