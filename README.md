@@ -7,13 +7,7 @@
 #### Lv 0. API 명세, ERD, SQL 작성
 
 - API 명세서 및 ERD 작성하기
-
-![API 명세서](images/Schedule_API_ERD.jpg)
-
-<br>
-=======
-![Image](https://github.com/user-attachments/assets/f230d979-1760-4e36-8096-d5889a9557d3)
-#### <br>
+![Image](https://github.com/user-attachments/assets/fed43b6b-5d6b-4d13-a84f-b594f66ad607)
 
 - **SQL 작성하기**
 
