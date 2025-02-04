@@ -6,15 +6,9 @@
 
 #### Lv 0. API 명세 및 ERD 작성
 
-- API 명세서 작성하기
+- API 명세서 및 ERD 작성하기
 
-  　　　![API 명세서](../images/README/Schedule_API-1738636998063-1.jpg)
-
-  
-
-- ERD 작성하기
-
-![ERD](../images/README/Schedule_ERD-1738637006606-3.jpg)
+![Schedule_API, ERD](../images/README/Schedule_API, ERD.jpg)
 
 
 
