@@ -8,13 +8,13 @@
 
 - API 명세서 작성하기
 
-  <img src="../images/README/image 21.jpg" alt="image 21" style="zoom: 50%;" />　　　　　
+  　　　![Schedule_API](../images/README/Schedule_API.jpg)
 
   
 
 - ERD 작성하기
 
-<img src="../images/README/image 22.jpg" alt="image 22" style="zoom:50%;" />　
+![Schedule_ERD](../images/README/Schedule_ERD.jpg)
 
 
 
