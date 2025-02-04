@@ -8,13 +8,13 @@
 
 - API 명세서 작성하기
 
-  　　　![Schedule_API](../images/README/Schedule_API.jpg)
+  　　　![API 명세서](../images/README/Schedule_API-1738636998063-1.jpg)
 
   
 
 - ERD 작성하기
 
-![Schedule_ERD](../images/README/Schedule_ERD.jpg)
+![ERD](../images/README/Schedule_ERD-1738637006606-3.jpg)
 
 
 
